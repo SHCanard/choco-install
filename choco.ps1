@@ -94,6 +94,9 @@ choco install kubernetes-cli
 #Rancher desktop
 choco install rancher-desktop
 
+#Podman desktop
+choco install podman-desktop
+
 #Glogg (log reader)
 choco install glogg
 
